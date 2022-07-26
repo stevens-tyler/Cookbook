@@ -1,0 +1,47 @@
+h1{
+    color: rosybrown;
+    text-align: center;
+    letter-spacing: 10px;
+    font-family:'Times New Roman', Times, serif
+}
+
+h2{
+    color: rosybrown;
+    letter-spacing: 10px;
+    font-family:'Times New Roman', Times, serif 
+}
+
+p{
+    color: olive;
+    text-align: center;
+    line-height: 2.0;
+    font-family:'Times New Roman', Times, serif ;
+    font-weight:400;
+}
+ul{
+    color: olive;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+ol{
+    color: olive;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+table{
+    color: olive;
+    font-family:'Times New Roman', Times, serif ;
+}
+
+a{
+    color:teal;
+}
+
+img {
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
